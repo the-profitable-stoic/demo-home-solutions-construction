@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Home Solutions & Construction",
+    "phone": "+12086716185",
+    "category": "home remodeler",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Boise's Trusted Home Remodelers",
+      "heroSubline": "Transforming houses into dream homes across the Treasure Valley. Expert craftsmanship, personalized service, and lasting results.",
+      "aboutTitle": "Crafting Boise Homes, Building Lasting Relationships",
+      "aboutText": [
+        "Home Solutions & Construction started with a simple goal: to provide homeowners in Boise with reliable and high-quality remodeling services. We saw a need for contractors who truly listened to their clients, understood their vision, and delivered exceptional results, on time and within budget.",
+        "Our approach is rooted in collaboration and transparency. We believe in open communication, meticulous planning, and unwavering attention to detail. From the initial consultation to the final walkthrough, we work closely with you to ensure your project reflects your unique style and needs.",
+        "We're proud to be a part of the Boise community. We source materials locally whenever possible, support local businesses, and are committed to giving back to the neighborhoods we serve. We believe in building not just homes, but also strong community ties."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Experts",
+          "description": "Deep understanding of Boise's unique housing styles and building codes."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced team delivering superior workmanship and lasting value."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "Seamless execution from start to finish, ensuring your project stays on track."
+        }
+      ],
+      "ctaHeadline": "Ready to Reimagine Your Space?",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your Boise home."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Boise home with our expert remodeling services.",
+        "description": "The kitchen is more than just a place to cook; it's the heart of your home. At Home Solutions & Construction, we understand this and are dedicated to creating kitchens that are both functional and beautiful. Whether you're dreaming of a complete overhaul or a simple update, we'll work closely with you to design a space that meets your needs and reflects your personal style.\n\nOur kitchen remodeling services include everything from cabinet installation and countertop replacement to appliance upgrades and custom lighting design. We handle all aspects of the project, ensuring a seamless and stress-free experience for you. We are familiar with the range of Boise home styles, from the classic North End bungalows to the modern designs in Harris Ranch. We are knowledgable about what works best with the architecture and the Boise lifestyle.\n\nWe use only the highest quality materials and employ skilled craftsmen to ensure lasting results. We'll guide you through the selection process, helping you choose the right materials, finishes, and appliances to create the kitchen of your dreams. We also ensure that all work meets Boise building codes and safety standards.",
+        "process": [
+          "Step 1: Initial Consultation & Design - Discuss your vision, budget, and timeline.",
+          "Step 2: Detailed Planning & Material Selection - Choose the perfect materials and finishes for your space.",
+          "Step 3: Expert Installation & Construction - Our skilled team brings your design to life.",
+          "Step 4: Final Walkthrough & Satisfaction Guarantee - Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetics",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We'll provide you with a detailed schedule during the planning phase."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's possible to live in your home during a kitchen remodel, but it can be disruptive. We'll work with you to minimize inconvenience and maintain a clean and safe work environment."
+          },
+          {
+            "question": "What is the cost of a kitchen remodel?",
+            "answer": "Kitchen remodels can vary in price depending on the scope of work and materials used. We offer free estimates, so contact us for a personalized quote."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Boise home with our professional bathroom remodeling services.",
+        "description": "Your bathroom should be a sanctuary – a place to relax and rejuvenate. Home Solutions & Construction specializes in transforming outdated bathrooms into luxurious and functional spaces. Whether you're looking for a simple refresh or a complete renovation, we have the expertise to bring your vision to life.\n\nOur bathroom remodeling services include everything from new vanity installation and tile work to shower and tub replacements. We'll help you select the right fixtures, finishes, and materials to create a bathroom that reflects your personal style and meets your specific needs. Considering Boise's climate, we can also help you choose moisture-resistant materials and efficient ventilation systems.\n\nWe understand the importance of quality craftsmanship and attention to detail. Our skilled team will ensure that every aspect of your bathroom remodel is executed to perfection. We'll handle all plumbing, electrical, and construction work, ensuring a seamless and stress-free experience for you.",
+        "process": [
+          "Step 1: Design Consultation - Share your vision and discuss your budget.",
+          "Step 2: Material Selection - Choose the perfect tiles, fixtures, and finishes.",
+          "Step 3: Demolition & Construction - Our team handles all aspects of the remodel.",
+          "Step 4: Finishing Touches & Clean-up - We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased comfort",
+          "Improved functionality",
+          "Enhanced home value",
+          "Modernized aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me design my new bathroom?",
+            "answer": "Absolutely! We offer design consultation services to help you create the perfect bathroom layout and choose the right materials and finishes."
+          },
+          {
+            "question": "Do I need to obtain permits for a bathroom remodel?",
+            "answer": "Depending on the scope of the project, permits may be required. We'll handle all necessary permit applications and ensure that your remodel meets all local building codes."
+          },
+          {
+            "question": "How can I maximize storage space in my bathroom?",
+            "answer": "We offer a variety of storage solutions, including custom vanities, built-in shelving, and medicine cabinets, to help you maximize space in your bathroom."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the potential of your Boise basement with our expert finishing services.",
+        "description": "Don't let your basement sit unused! Home Solutions & Construction can transform your unfinished basement into a valuable living space, adding square footage and increasing the value of your home. Whether you're dreaming of a home theater, a game room, a home office, or an extra bedroom, we have the expertise to bring your vision to life.\n\nOur basement finishing services include everything from framing and insulation to electrical and plumbing work. We'll handle all aspects of the project, ensuring a seamless and stress-free experience for you. Considering Boise's climate and the potential for moisture in basements, we use moisture-resistant materials and proper ventilation techniques to ensure a healthy and comfortable living environment.\n\nWe understand the importance of creating a space that is both functional and beautiful. Our skilled team will work closely with you to design a basement that meets your specific needs and reflects your personal style. We will ensure that all work meets Boise building codes and safety standards.",
+        "process": [
+          "Step 1: Consultation & Design - Discuss your vision and budget.",
+          "Step 2: Planning & Permitting - Obtain necessary permits and create detailed plans.",
+          "Step 3: Construction & Finishing - Our team handles all aspects of the finishing process.",
+          "Step 4: Final Inspection & Walkthrough - Ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Enhanced home value",
+          "Improved energy efficiency",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "Is it worth it to finish my basement?",
+            "answer": "Finishing your basement can significantly increase your home's value and provide valuable living space. It's a great investment for Boise homeowners."
+          },
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most basement finishes take between 6-12 weeks."
+          },
+          {
+            "question": "What permits are required for basement finishing?",
+            "answer": "Permits are typically required for electrical, plumbing, and structural work. We'll handle all necessary permit applications."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space in Boise with a custom-built deck or patio.",
+        "description": "Take advantage of Boise's beautiful summers with a custom-built deck or patio from Home Solutions & Construction. We design and build decks and patios that are both functional and aesthetically pleasing, creating the perfect outdoor space for relaxation, entertaining, and enjoying the Idaho sunshine.\n\nOur deck and patio construction services include everything from initial design and material selection to construction and finishing. We offer a wide variety of materials, including wood, composite decking, and pavers, to suit your style and budget. We consider Boise's climate and recommend materials that are durable and weather-resistant.\n\nWe understand the importance of quality craftsmanship and attention to detail. Our skilled team will ensure that your deck or patio is built to last, providing you with years of enjoyment. We also ensure that all work meets Boise building codes and safety standards.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your vision and preferences.",
+          "Step 2: Material Selection - Choose the right materials for your deck or patio.",
+          "Step 3: Construction & Installation - Our team handles all aspects of the construction process.",
+          "Step 4: Final Inspection & Finishing - We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced home value",
+          "Improved aesthetics",
+          "Perfect for entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a deck in Boise?",
+            "answer": "Composite decking is a popular choice for Boise decks due to its durability and low maintenance. Wood decks can also be a good option, but require more upkeep."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "Permits may be required depending on the size and scope of the project. We'll handle all necessary permit applications."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most decks and patios can be built in 2-4 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Protect and beautify your Boise home with our professional siding replacement services.",
+        "description": "Your home's siding is its first line of defense against the elements. Home Solutions & Construction offers expert siding replacement services to protect your home from Boise's harsh weather conditions, including hot summers, cold winters, and occasional snow. New siding can also dramatically improve your home's curb appeal and increase its value.\n\nWe offer a wide variety of siding options, including vinyl, wood, and fiber cement, to suit your style and budget. We'll help you choose the right siding material to enhance your home's aesthetics and provide long-lasting protection. We are familiar with the different housing styles in Boise, from the older homes in the North End to the newer constructions in the suburbs, and can help you choose a siding that complements your home's architecture.\n\nOur skilled team will handle all aspects of the siding replacement process, ensuring a seamless and stress-free experience for you. We'll remove your old siding, install new insulation, and install your new siding with precision and care. Also we'll ensure that all work meets Boise building codes and safety standards.",
+        "process": [
+          "Step 1: Inspection & Consultation - Assess your siding needs and discuss your options.",
+          "Step 2: Material Selection - Choose the right siding material for your home.",
+          "Step 3: Removal & Installation - Our team removes your old siding and installs new siding.",
+          "Step 4: Final Inspection & Clean-up - We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced protection from the elements",
+          "Reduced energy costs"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need new siding?",
+            "answer": "Signs of siding damage include cracks, warping, fading, and water damage. If you notice any of these issues, it's time to consider siding replacement."
+          },
+          {
+            "question": "What is the best type of siding for Boise's climate?",
+            "answer": "Vinyl siding is a popular choice for Boise homes due to its durability, low maintenance, and affordability. Fiber cement siding is another excellent option, offering superior durability and fire resistance."
+          },
+          {
+            "question": "How long does it take to replace siding?",
+            "answer": "The timeline varies depending on the size of your home and the type of siding being installed, but most siding replacements take between 1-2 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "window-door-replacement",
+        "name": "Window & Door Replacement",
+        "shortDescription": "Upgrade your Boise home with energy-efficient windows and doors.",
+        "description": "Improve your home's energy efficiency, comfort, and security with new windows and doors from Home Solutions & Construction. We offer a wide selection of high-quality windows and doors that are both beautiful and functional. New windows and doors can also enhance your home's curb appeal and increase its value.\n\nOur window and door replacement services include everything from initial consultation and product selection to installation and finishing. We offer a variety of styles and materials, including vinyl, wood, and fiberglass, to suit your taste and budget. We consider Boise's climate and recommend energy-efficient options that will help you save money on heating and cooling costs. Given the summer wildfire smoke, we also suggest options with superior sealing.\n\nOur skilled team will handle all aspects of the window and door replacement process, ensuring a seamless and stress-free experience for you. We'll remove your old windows and doors, install new insulation, and install your new windows and doors with precision and care. We ensure that all work meets Boise building codes and safety standards.",
+        "process": [
+          "Step 1: Consultation & Measurement - Discuss your needs and take precise measurements.",
+          "Step 2: Product Selection - Choose the right windows and doors for your home.",
+          "Step 3: Installation - Our team installs your new windows and doors with precision.",
+          "Step 4: Finishing & Clean-up - We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Increased home value",
+          "Enhanced security",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How can new windows and doors save me money on energy bills?",
+            "answer": "Energy-efficient windows and doors can significantly reduce heat loss in the winter and heat gain in the summer, lowering your heating and cooling costs."
+          },
+          {
+            "question": "What are the benefits of double-pane windows?",
+            "answer": "Double-pane windows provide better insulation than single-pane windows, reducing energy costs and improving comfort."
+          },
+          {
+            "question": "How long does it take to replace windows and doors?",
+            "answer": "The timeline varies depending on the number of windows and doors being replaced, but most replacements take between 1-3 days."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction is proud to offer comprehensive home remodeling services to homeowners in Boise, Idaho. From kitchen and bathroom renovations to whole-house remodeling projects, our team of experienced professionals is dedicated to providing exceptional craftsmanship and customer service. We understand the unique architectural styles and building codes of Boise, ensuring that your remodeling project is completed to the highest standards.\n\nWe are committed to transforming your Boise home into the space of your dreams. Whether you're looking to update your kitchen with modern appliances and stylish finishes, create a spa-like bathroom retreat, or add more living space with a home addition, Home Solutions & Construction has the expertise and resources to bring your vision to life. We work closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure complete satisfaction.\n\nWe handle projects of all sizes, from small repairs to complete overhauls. Contact us today for a free consultation and let us show you how we can enhance the beauty and functionality of your Boise home.",
+        "localContext": "Boise is the capital city of Idaho, known for its outdoor recreation opportunities, vibrant downtown, and growing tech industry.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Nampa"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction extends its expert remodeling services to the thriving community of Meridian, Idaho. We understand the needs of Meridian homeowners and are dedicated to providing top-quality craftsmanship and personalized service. Whether you're looking to update your kitchen, remodel your bathroom, or add more living space, we have the experience and expertise to bring your vision to life.\n\nOur team is well-versed in the latest remodeling trends and techniques, and we use only the highest-quality materials to ensure lasting results. We work closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure complete satisfaction. We take pride in transforming houses into homes that reflect the unique style and preferences of our clients.\n\nFrom custom cabinetry to energy-efficient upgrades, Home Solutions & Construction is your trusted partner for all your remodeling needs in Meridian. Contact us today to schedule a free consultation and let us help you create the home of your dreams.",
+        "localContext": "Meridian is a fast-growing city in the Treasure Valley, known for its family-friendly atmosphere and excellent schools.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction is pleased to offer our comprehensive remodeling services to homeowners in Nampa, Idaho. We understand the unique characteristics of Nampa homes and are committed to providing exceptional craftsmanship and customer service. Whether you're looking to update your kitchen, remodel your bathroom, or add an addition to your home, we have the experience and expertise to handle projects of all sizes.\n\nOur team works closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure that their vision is brought to life. We use only the highest-quality materials and the latest techniques to ensure lasting results. We are dedicated to transforming your Nampa home into a space that reflects your personal style and meets your needs.\n\nHome Solutions & Construction is committed to providing affordable and reliable remodeling services to the Nampa community. Contact us today for a free consultation and let us show you how we can enhance the beauty and functionality of your home.",
+        "localContext": "Nampa is a large city in southwestern Idaho and part of the Boise metropolitan area. It has a strong agricultural heritage and a growing economy.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction is dedicated to providing top-notch home remodeling services to the residents of Caldwell, Idaho. We understand the unique needs and preferences of Caldwell homeowners and are committed to delivering exceptional results. Whether you're looking to update your kitchen, remodel your bathroom, or add more living space to your home, our team has the skills and experience to handle any project.\n\nWe pride ourselves on our attention to detail and our commitment to customer satisfaction. We work closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure that their vision is realized. We use only the highest-quality materials and the latest techniques to ensure lasting results that will add value and beauty to your Caldwell home.\n\nFrom small repairs to complete renovations, Home Solutions & Construction is your trusted partner for all your remodeling needs in Caldwell. Contact us today for a free consultation and let us help you create the home of your dreams.",
+        "localContext": "Caldwell is a city in Canyon County, Idaho, known for its agricultural industry and its proximity to the Sunnyslope wine region.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction proudly serves the beautiful community of Eagle, Idaho, offering a full range of home remodeling services. We understand the unique character of Eagle homes and are committed to providing exceptional craftsmanship and personalized service. Whether you're looking to update your kitchen, remodel your bathroom, or create a luxurious outdoor living space, we have the expertise and resources to bring your vision to life.\n\nOur team works closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure complete satisfaction. We use only the highest-quality materials and the latest techniques to ensure lasting results that will enhance the beauty and value of your Eagle home. We pay close attention to detail and are committed to exceeding our clients' expectations.\n\nFrom custom cabinetry to energy-efficient upgrades, Home Solutions & Construction is your trusted partner for all your remodeling needs in Eagle. Contact us today to schedule a free consultation and let us help you create the home of your dreams.",
+        "localContext": "Eagle is an affluent city in Ada County, Idaho, known for its upscale homes, equestrian properties, and scenic riverfront.",
+        "nearbyAreas": [
+          "Star",
+          "Boise",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction is pleased to offer our comprehensive remodeling services to homeowners in Kuna, Idaho. We understand the needs of Kuna residents and are dedicated to providing top-quality craftsmanship and exceptional customer service. Whether you're looking to update your kitchen, remodel your bathroom, or add more living space to your home, we have the experience and expertise to handle projects of all sizes.\n\nOur team works closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure that their vision is realized. We use only the highest-quality materials and the latest techniques to ensure lasting results that will add value and beauty to your Kuna home. We are committed to transforming your house into the home of your dreams.\n\nHome Solutions & Construction is dedicated to providing affordable and reliable remodeling services to the Kuna community. Contact us today for a free consultation and let us show you how we can enhance the beauty and functionality of your home.",
+        "localContext": "Kuna is a rapidly growing city in Ada County, Idaho, known for its affordable housing and family-friendly community.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction extends its remodeling expertise to the charming community of Star, Idaho. We understand the unique character of Star homes and are dedicated to providing exceptional craftsmanship and personalized service. Whether you're looking to update your kitchen, remodel your bathroom, or create a custom outdoor living space, we have the skills and experience to bring your vision to life.\n\nOur team works closely with our clients throughout the entire remodeling process, from initial design to final walkthrough, to ensure complete satisfaction. We use only the highest-quality materials and the latest techniques to ensure lasting results that will enhance the beauty and value of your Star home. We are committed to providing a stress-free remodeling experience.\n\nFrom small updates to complete renovations, Home Solutions & Construction is your trusted partner for all your remodeling needs in Star. Contact us today to schedule a free consultation and let us help you create the home of your dreams.",
+        "localContext": "Star is a small but growing city in Ada County, Idaho, known for its rural atmosphere and strong sense of community.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Home Solutions & Construction is proud to offer comprehensive home remodeling services to the residents of Middleton, Idaho. We understand the local architecture and community values, ensuring that our projects seamlessly blend with the existing aesthetic while meeting our clients' individual needs. From kitchen and bathroom upgrades to whole-house renovations, our team is committed to delivering exceptional quality and customer satisfaction.\n\nWe prioritize open communication and collaboration, working closely with homeowners throughout the entire remodeling process. By using high-quality materials and skilled craftsmanship, we ensure that every project not only meets but exceeds expectations. We're equipped to handle a wide range of remodeling projects, large or small, always focusing on delivering lasting value and a positive experience.\n\nLet Home Solutions & Construction transform your Middleton home into a space that perfectly reflects your lifestyle and enhances your daily living. Contact us today for a consultation and discover how we can bring your remodeling dreams to life.",
+        "localContext": "Middleton is a city in Canyon County, Idaho, known for its close-knit community and its location along the Boise River.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Star",
+          "Emmett"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Home Solutions & Construction completely transformed our outdated kitchen! They were professional, communicative, and the quality of work was outstanding. We especially appreciated their attention to detail and how they kept the project on schedule. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Basement Finishing",
+        "text": "We hired Home Solutions & Construction to finish our basement, and we're thrilled with the results. They turned it into a fantastic family room. There were a couple of minor delays, but they communicated clearly and resolved them quickly. Great value for the price.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "Our master bathroom was in desperate need of an update. Home Solutions & Construction did an amazing job! They helped us choose beautiful fixtures and finishes, and the craftsmanship was impeccable. The team was respectful of our home and always cleaned up after themselves.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We wanted to add a deck to our backyard to enjoy the Boise summers. Home Solutions & Construction designed and built a beautiful deck that perfectly complements our home. The quality of the materials and workmanship is top-notch. We love spending time out there!",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "Home Solutions & Construction replaced the siding on our house, and it looks fantastic! They were very professional and efficient. The only reason I'm not giving them 5 stars is that there was some minor cleanup we had to do ourselves. Overall, we're very happy with the results.",
+        "date": "2024-04-01"
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "We replaced all the windows in our Boise Bench home with Home Solutions & Construction. What a difference! Our home is so much quieter and more energy-efficient. The installation team was professional and courteous, and they did a great job cleaning up afterwards.",
+        "date": "2023-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Home Remodeling | Home Solutions",
+        "description": "Trusted Boise remodeler. Kitchens, bathrooms, basements, decks, siding, & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Home Solutions & Construction",
+        "description": "Learn about Home Solutions & Construction in Boise, ID. Quality remodeling services, local expertise."
+      },
+      "services": {
+        "title": "Home Remodeling Services | Boise, ID",
+        "description": "Comprehensive remodeling services in Boise. Kitchen, bathroom, basement, siding, decks, windows."
+      },
+      "contact": {
+        "title": "Contact Us | Home Solutions & Construction",
+        "description": "Contact Home Solutions & Construction for your Boise remodeling project. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Home Solutions & Construction",
+        "description": "Read reviews from satisfied Home Solutions & Construction customers in Boise, ID."
+      },
+      "service-areas": {
+        "title": "Service Areas | Home Solutions & Construction",
+        "description": "Home Solutions & Construction serves Boise and surrounding areas. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "window-door-replacement": "/images/service-window-door-replacement.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-door-replacement": {
+        "src": "/images/service-window-door-replacement.webp",
+        "srcset": "/images/service-window-door-replacement-400w.webp 400w, /images/service-window-door-replacement-800w.webp 800w, /images/service-window-door-replacement-1200w.webp 1200w, /images/service-window-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
